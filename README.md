@@ -1,1 +1,1 @@
-# Image-2-Text-Sentimental-
+# Image-2-Text
